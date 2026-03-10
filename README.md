@@ -1,4 +1,4 @@
-# 개발자를 위한 그룹웨어 웹프로젝트 WORKNEED
+# 그룹웨어 웹프로젝트 WORKNEED
 <img width="1277" height="719" alt="스크린샷 2026-01-15 오후 1 26 16" src="https://github.com/user-attachments/assets/ff0e79e1-85b5-43b0-b5fd-59962e190b65" />
 
 
